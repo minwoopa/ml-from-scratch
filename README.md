@@ -14,6 +14,4 @@ Economist (PhD) with an engineering background. Each folder is one piece built f
 | 6 | `06-evals` | Every score carries a clustered standard error |
 | 7 | `07-experiment` | First experiment run; technical note written |
 
-Experiments logged to W&B. No reference code copied; where consulted, the folder README says so.
-
-MIT
+No reference code copied; where consulted, the folder README says so.
